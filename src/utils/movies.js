@@ -81,10 +81,6 @@ export function searchMovies({ query = "", filters = emptyFilters, sort = "relev
     results.sort((a, b) => b.relevanceScore - a.relevanceScore || b.release_year - a.release_year || a.title.localeCompare(b.title));
   }
 
-  if (query.trim()) {
-    console.table(results.map(({ id, title, relevanceScore }) => ({ id, title, relevanceScore })));
-  }
-
   return results;
 }
 
@@ -96,4 +92,3 @@ export function relatedMovies(movie, count = 5) {
     .sort((a, b) => ((a.release_year + seed) % 17) - ((b.release_year + seed) % 17))
     .slice(0, count);
 }
-

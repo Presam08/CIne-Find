@@ -4,3 +4,6 @@ dist/
 .vite/
 *.log
 .DS_Store
+netflix_titles.csv
+stitch_cinefind_movie_search_engine/
+stitch_cinefind_movie_search_engine.zip
