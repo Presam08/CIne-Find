@@ -1,0 +1,1441 @@
+﻿[
+    {
+        "id":  "s1",
+        "title":  "Dick Johnson Is Dead",
+        "type":  "Movie",
+        "director":  "Kirsten Johnson",
+        "cast":  [
+
+                 ],
+        "country":  [
+                        "United States"
+                    ],
+        "date_added":  "September 25, 2021",
+        "release_year":  2020,
+        "rating":  "PG-13",
+        "duration":  "90 min",
+        "genres":  [
+                       "Documentaries"
+                   ],
+        "description":  "As her father nears the end of his life, filmmaker Kirsten Johnson stages his death in inventive and comical ways to help them both face the inevitable."
+    },
+    {
+        "id":  "s2",
+        "title":  "Blood \u0026 Water",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Ama Qamata",
+                     "Khosi Ngema",
+                     "Gail Mabalane",
+                     "Thabang Molaba",
+                     "Dillon Windvogel",
+                     "Natasha Thahane",
+                     "Arno Greeff",
+                     "Xolile Tshabalala",
+                     "Getmore Sithole",
+                     "Cindy Mahlangu",
+                     "Ryle De Morny",
+                     "Greteli Fincham",
+                     "Sello Maake Ka-Ncube",
+                     "Odwa Gwanya",
+                     "Mekaila Mathys",
+                     "Sandi Schultz",
+                     "Duane Williams",
+                     "Shamilla Miller",
+                     "Patrick Mofokeng"
+                 ],
+        "country":  [
+                        "South Africa"
+                    ],
+        "date_added":  "September 24, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "2 Seasons",
+        "genres":  [
+                       "International TV Shows",
+                       "TV Dramas",
+                       "TV Mysteries"
+                   ],
+        "description":  "After crossing paths at a party, a Cape Town teen sets out to prove whether a private-school swimming star is her sister who was abducted at birth."
+    },
+    {
+        "id":  "s3",
+        "title":  "Ganglands",
+        "type":  "TV Show",
+        "director":  "Julien Leclercq",
+        "cast":  [
+                     "Sami Bouajila",
+                     "Tracy Gotoas",
+                     "Samuel Jouy",
+                     "Nabiha Akkari",
+                     "Sofia Lesaffre",
+                     "Salim Kechiouche",
+                     "Noureddine Farihi",
+                     "Geert Van Rampelberg",
+                     "Bakary Diombera"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 24, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "1 Season",
+        "genres":  [
+                       "Crime TV Shows",
+                       "International TV Shows",
+                       "TV Action \u0026 Adventure"
+                   ],
+        "description":  "To protect his family from a powerful drug lord, skilled thief Mehdi and his expert team of robbers are pulled into a violent and deadly turf war."
+    },
+    {
+        "id":  "s4",
+        "title":  "Jailbirds New Orleans",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 24, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "1 Season",
+        "genres":  [
+                       "Docuseries",
+                       "Reality TV"
+                   ],
+        "description":  "Feuds, flirtations and toilet talk go down among the incarcerated women at the Orleans Justice Center in New Orleans on this gritty reality series."
+    },
+    {
+        "id":  "s5",
+        "title":  "Kota Factory",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Mayur More",
+                     "Jitendra Kumar",
+                     "Ranjan Raj",
+                     "Alam Khan",
+                     "Ahsaas Channa",
+                     "Revathi Pillai",
+                     "Urvi Singh",
+                     "Arun Kumar"
+                 ],
+        "country":  [
+                        "India"
+                    ],
+        "date_added":  "September 24, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "2 Seasons",
+        "genres":  [
+                       "International TV Shows",
+                       "Romantic TV Shows",
+                       "TV Comedies"
+                   ],
+        "description":  "In a city of coaching centers known to train India’s finest collegiate minds, an earnest but unexceptional student and his friends navigate campus life."
+    },
+    {
+        "id":  "s6",
+        "title":  "Midnight Mass",
+        "type":  "TV Show",
+        "director":  "Mike Flanagan",
+        "cast":  [
+                     "Kate Siegel",
+                     "Zach Gilford",
+                     "Hamish Linklater",
+                     "Henry Thomas",
+                     "Kristin Lehman",
+                     "Samantha Sloyan",
+                     "Igby Rigney",
+                     "Rahul Kohli",
+                     "Annarah Cymone",
+                     "Annabeth Gish",
+                     "Alex Essoe",
+                     "Rahul Abburi",
+                     "Matt Biedel",
+                     "Michael Trucco",
+                     "Crystal Balint",
+                     "Louis Oliver"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 24, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "1 Season",
+        "genres":  [
+                       "TV Dramas",
+                       "TV Horror",
+                       "TV Mysteries"
+                   ],
+        "description":  "The arrival of a charismatic young priest brings glorious miracles, ominous mysteries and renewed religious fervor to a dying town desperate to believe."
+    },
+    {
+        "id":  "s7",
+        "title":  "My Little Pony: A New Generation",
+        "type":  "Movie",
+        "director":  "Robert Cullen, José Luis Ucha",
+        "cast":  [
+                     "Vanessa Hudgens",
+                     "Kimiko Glenn",
+                     "James Marsden",
+                     "Sofia Carson",
+                     "Liza Koshy",
+                     "Ken Jeong",
+                     "Elizabeth Perkins",
+                     "Jane Krakowski",
+                     "Michael McKean",
+                     "Phil LaMarr"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 24, 2021",
+        "release_year":  2021,
+        "rating":  "PG",
+        "duration":  "91 min",
+        "genres":  [
+                       "Children \u0026 Family Movies"
+                   ],
+        "description":  "Equestria\u0027s divided. But a bright-eyed hero believes Earth Ponies, Pegasi and Unicorns should be pals — and, hoof to heart, she’s determined to prove it."
+    },
+    {
+        "id":  "s8",
+        "title":  "Sankofa",
+        "type":  "Movie",
+        "director":  "Haile Gerima",
+        "cast":  [
+                     "Kofi Ghanaba",
+                     "Oyafunmike Ogunlano",
+                     "Alexandra Duah",
+                     "Nick Medley",
+                     "Mutabaruka",
+                     "Afemo Omilami",
+                     "Reggie Carter",
+                     "Mzuri"
+                 ],
+        "country":  [
+                        "United States",
+                        "Ghana",
+                        "Burkina Faso",
+                        "United Kingdom",
+                        "Germany",
+                        "Ethiopia"
+                    ],
+        "date_added":  "September 24, 2021",
+        "release_year":  1993,
+        "rating":  "TV-MA",
+        "duration":  "125 min",
+        "genres":  [
+                       "Dramas",
+                       "Independent Movies",
+                       "International Movies"
+                   ],
+        "description":  "On a photo shoot in Ghana, an American model slips back in time, becomes enslaved on a plantation and bears witness to the agony of her ancestral past."
+    },
+    {
+        "id":  "s9",
+        "title":  "The Great British Baking Show",
+        "type":  "TV Show",
+        "director":  "Andy Devonshire",
+        "cast":  [
+                     "Mel Giedroyc",
+                     "Sue Perkins",
+                     "Mary Berry",
+                     "Paul Hollywood"
+                 ],
+        "country":  [
+                        "United Kingdom"
+                    ],
+        "date_added":  "September 24, 2021",
+        "release_year":  2021,
+        "rating":  "TV-14",
+        "duration":  "9 Seasons",
+        "genres":  [
+                       "British TV Shows",
+                       "Reality TV"
+                   ],
+        "description":  "A talented batch of amateur bakers face off in a 10-week competition, whipping up their best dishes in the hopes of being named the U.K.\u0027s best."
+    },
+    {
+        "id":  "s10",
+        "title":  "The Starling",
+        "type":  "Movie",
+        "director":  "Theodore Melfi",
+        "cast":  [
+                     "Melissa McCarthy",
+                     "Chris O\u0027Dowd",
+                     "Kevin Kline",
+                     "Timothy Olyphant",
+                     "Daveed Diggs",
+                     "Skyler Gisondo",
+                     "Laura Harrier",
+                     "Rosalind Chao",
+                     "Kimberly Quinn",
+                     "Loretta Devine",
+                     "Ravi Kapoor"
+                 ],
+        "country":  [
+                        "United States"
+                    ],
+        "date_added":  "September 24, 2021",
+        "release_year":  2021,
+        "rating":  "PG-13",
+        "duration":  "104 min",
+        "genres":  [
+                       "Comedies",
+                       "Dramas"
+                   ],
+        "description":  "A woman adjusting to life after a loss contends with a feisty bird that\u0027s taken over her garden — and a husband who\u0027s struggling to find a way forward."
+    },
+    {
+        "id":  "s11",
+        "title":  "Vendetta: Truth, Lies and The Mafia",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 24, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "1 Season",
+        "genres":  [
+                       "Crime TV Shows",
+                       "Docuseries",
+                       "International TV Shows"
+                   ],
+        "description":  "Sicily boasts a bold \"Anti-Mafia\" coalition. But what happens when those trying to bring down organized crime are accused of being criminals themselves?"
+    },
+    {
+        "id":  "s12",
+        "title":  "Bangkok Breaking",
+        "type":  "TV Show",
+        "director":  "Kongkiat Komesiri",
+        "cast":  [
+                     "Sukollawat Kanarot",
+                     "Sushar Manaying",
+                     "Pavarit Mongkolpisit",
+                     "Sahajak Boonthanakit",
+                     "Suthipongse Thatphithakkul",
+                     "Bhasaworn Bawronkirati",
+                     "Daweerit Chullasapya",
+                     "Waratthaya Wongchayaporn",
+                     "Kittiphoom Wongpentak",
+                     "Abhicha Thanachanun",
+                     "Nophand Boonyai",
+                     "Kittipong Khamsat",
+                     "Arisara Wongchalee",
+                     "Jaytiya Naiwattanakul",
+                     "Pantipa Arunwattanachai",
+                     "Panupan Jantanawong",
+                     "Kungtap Saelim",
+                     "Phumphat Chartsuriyakiat",
+                     "Issara Veranitinunt",
+                     "Keerati Sivakuae",
+                     "Panjai Sirisuwan",
+                     "Supranee Charoenpol",
+                     "Suda Chuenban",
+                     "Visaka Banhansupavat",
+                     "Pitchatorn Santinatornkul"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 23, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "1 Season",
+        "genres":  [
+                       "Crime TV Shows",
+                       "International TV Shows",
+                       "TV Action \u0026 Adventure"
+                   ],
+        "description":  "Struggling to earn a living in Bangkok, a man joins an emergency rescue service and realizes he must unravel a citywide conspiracy."
+    },
+    {
+        "id":  "s13",
+        "title":  "Je Suis Karl",
+        "type":  "Movie",
+        "director":  "Christian Schwochow",
+        "cast":  [
+                     "Luna Wedler",
+                     "Jannis Niewöhner",
+                     "Milan Peschel",
+                     "Edin Hasanović",
+                     "Anna Fialová",
+                     "Marlon Boess",
+                     "Victor Boccard",
+                     "Fleur Geffrier",
+                     "Aziz Dyab",
+                     "Mélanie Fouché",
+                     "Elizaveta Maximová"
+                 ],
+        "country":  [
+                        "Germany",
+                        "Czech Republic"
+                    ],
+        "date_added":  "September 23, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "127 min",
+        "genres":  [
+                       "Dramas",
+                       "International Movies"
+                   ],
+        "description":  "After most of her family is murdered in a terrorist bombing, a young woman is unknowingly lured into joining the very group that killed them."
+    },
+    {
+        "id":  "s14",
+        "title":  "Confessions of an Invisible Girl",
+        "type":  "Movie",
+        "director":  "Bruno Garotti",
+        "cast":  [
+                     "Klara Castanho",
+                     "Lucca Picon",
+                     "Júlia Gomes",
+                     "Marcus Bessa",
+                     "Kiria Malheiros",
+                     "Fernanda Concon",
+                     "Gabriel Lima",
+                     "Caio Cabral",
+                     "Leonardo Cidade",
+                     "Jade Cardozo"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 22, 2021",
+        "release_year":  2021,
+        "rating":  "TV-PG",
+        "duration":  "91 min",
+        "genres":  [
+                       "Children \u0026 Family Movies",
+                       "Comedies"
+                   ],
+        "description":  "When the clever but socially-awkward Tetê joins a new school, she\u0027ll do anything to fit in. But the queen bee among her classmates has other ideas."
+    },
+    {
+        "id":  "s15",
+        "title":  "Crime Stories: India Detectives",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 22, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "1 Season",
+        "genres":  [
+                       "British TV Shows",
+                       "Crime TV Shows",
+                       "Docuseries"
+                   ],
+        "description":  "Cameras following Bengaluru police on the job offer a rare glimpse into the complex and challenging inner workings of four major crime investigations."
+    },
+    {
+        "id":  "s16",
+        "title":  "Dear White People",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Logan Browning",
+                     "Brandon P. Bell",
+                     "DeRon Horton",
+                     "Antoinette Robertson",
+                     "John Patrick Amedori",
+                     "Ashley Blaine Featherson",
+                     "Marque Richardson",
+                     "Giancarlo Esposito"
+                 ],
+        "country":  [
+                        "United States"
+                    ],
+        "date_added":  "September 22, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "4 Seasons",
+        "genres":  [
+                       "TV Comedies",
+                       "TV Dramas"
+                   ],
+        "description":  "Students of color navigate the daily slights and slippery politics of life at an Ivy League college that\u0027s not nearly as \"post-racial\" as it thinks."
+    },
+    {
+        "id":  "s17",
+        "title":  "Europe\u0027s Most Dangerous Man: Otto Skorzeny in Spain",
+        "type":  "Movie",
+        "director":  "Pedro de Echave García, Pablo Azorín Williams",
+        "cast":  [
+
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 22, 2021",
+        "release_year":  2020,
+        "rating":  "TV-MA",
+        "duration":  "67 min",
+        "genres":  [
+                       "Documentaries",
+                       "International Movies"
+                   ],
+        "description":  "Declassified documents reveal the post-WWII life of Otto Skorzeny, a close Hitler ally who escaped to Spain and became an adviser to world presidents."
+    },
+    {
+        "id":  "s18",
+        "title":  "Falsa identidad",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Luis Ernesto Franco",
+                     "Camila Sodi",
+                     "Sergio Goyri",
+                     "Samadhi Zendejas",
+                     "Eduardo Yáñez",
+                     "Sonya Smith",
+                     "Alejandro Camacho",
+                     "Azela Robinson",
+                     "Uriel del Toro",
+                     "Géraldine Bazán",
+                     "Gabriela Roel",
+                     "Marcus Ornellas"
+                 ],
+        "country":  [
+                        "Mexico"
+                    ],
+        "date_added":  "September 22, 2021",
+        "release_year":  2020,
+        "rating":  "TV-MA",
+        "duration":  "2 Seasons",
+        "genres":  [
+                       "Crime TV Shows",
+                       "Spanish-Language TV Shows",
+                       "TV Dramas"
+                   ],
+        "description":  "Strangers Diego and Isabel flee their home in Mexico and pretend to be a married couple to escape his drug-dealing enemies and her abusive husband."
+    },
+    {
+        "id":  "s19",
+        "title":  "Intrusion",
+        "type":  "Movie",
+        "director":  "Adam Salky",
+        "cast":  [
+                     "Freida Pinto",
+                     "Logan Marshall-Green",
+                     "Robert John Burke",
+                     "Megan Elisabeth Kelly",
+                     "Sarah Minnich",
+                     "Hayes Hargrove",
+                     "Mark Sivertsen",
+                     "Brandon Fierro",
+                     "Antonio Valles",
+                     "Clint Obenchain"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 22, 2021",
+        "release_year":  2021,
+        "rating":  "TV-14",
+        "duration":  "94 min",
+        "genres":  [
+                       "Thrillers"
+                   ],
+        "description":  "After a deadly home invasion at a couple’s new dream house, the traumatized wife searches for answers — and learns the real danger is just beginning."
+    },
+    {
+        "id":  "s20",
+        "title":  "Jaguar",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Blanca Suárez",
+                     "Iván Marcos",
+                     "Óscar Casas",
+                     "Adrián Lastra",
+                     "Francesc Garrido",
+                     "Stefan Weinert",
+                     "Julia Möller",
+                     "Alicia Chojnowski"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 22, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "1 Season",
+        "genres":  [
+                       "International TV Shows",
+                       "Spanish-Language TV Shows",
+                       "TV Action \u0026 Adventure"
+                   ],
+        "description":  "In the 1960s, a Holocaust survivor joins a group of self-trained spies who seek justice against Nazis fleeing to Spain to hide after WWII."
+    },
+    {
+        "id":  "s21",
+        "title":  "Monsters Inside: The 24 Faces of Billy Milligan",
+        "type":  "TV Show",
+        "director":  "Olivier Megaton",
+        "cast":  [
+
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 22, 2021",
+        "release_year":  2021,
+        "rating":  "TV-14",
+        "duration":  "1 Season",
+        "genres":  [
+                       "Crime TV Shows",
+                       "Docuseries",
+                       "International TV Shows"
+                   ],
+        "description":  "In the late 1970s, an accused serial rapist claims multiple personalities control his behavior, setting off a legal odyssey that captivates America."
+    },
+    {
+        "id":  "s22",
+        "title":  "Resurrection: Ertugrul",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Engin Altan Düzyatan",
+                     "Serdar Gökhan",
+                     "Hülya Darcan",
+                     "Kaan Taşaner",
+                     "Esra Bilgiç",
+                     "Osman Soykut",
+                     "Serdar Deniz",
+                     "Cengiz Coşkun",
+                     "Reshad Strik",
+                     "Hande Subaşı"
+                 ],
+        "country":  [
+                        "Turkey"
+                    ],
+        "date_added":  "September 22, 2021",
+        "release_year":  2018,
+        "rating":  "TV-14",
+        "duration":  "5 Seasons",
+        "genres":  [
+                       "International TV Shows",
+                       "TV Action \u0026 Adventure",
+                       "TV Dramas"
+                   ],
+        "description":  "When a good deed unwittingly endangers his clan, a 13th-century Turkish warrior agrees to fight a sultan\u0027s enemies in exchange for new tribal land."
+    },
+    {
+        "id":  "s23",
+        "title":  "Avvai Shanmughi",
+        "type":  "Movie",
+        "director":  "K.S. Ravikumar",
+        "cast":  [
+                     "Kamal Hassan",
+                     "Meena",
+                     "Gemini Ganesan",
+                     "Heera Rajgopal",
+                     "Nassar",
+                     "S.P. Balasubrahmanyam"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 21, 2021",
+        "release_year":  1996,
+        "rating":  "TV-PG",
+        "duration":  "161 min",
+        "genres":  [
+                       "Comedies",
+                       "International Movies"
+                   ],
+        "description":  "Newly divorced and denied visitation rights with his daughter, a doting father disguises himself as a gray-haired nanny in order to spend time with her."
+    },
+    {
+        "id":  "s24",
+        "title":  "Go! Go! Cory Carson: Chrissy Takes the Wheel",
+        "type":  "Movie",
+        "director":  "Alex Woo, Stanley Moore",
+        "cast":  [
+                     "Maisie Benson",
+                     "Paul Killam",
+                     "Kerry Gudjohnsen",
+                     "AC Lim"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 21, 2021",
+        "release_year":  2021,
+        "rating":  "TV-Y",
+        "duration":  "61 min",
+        "genres":  [
+                       "Children \u0026 Family Movies"
+                   ],
+        "description":  "From arcade games to sled days and hiccup cures, Cory Carson’s curious little sister Chrissy speeds off on her own for fun and adventure all over town!"
+    },
+    {
+        "id":  "s25",
+        "title":  "Jeans",
+        "type":  "Movie",
+        "director":  "S. Shankar",
+        "cast":  [
+                     "Prashanth",
+                     "Aishwarya Rai Bachchan",
+                     "Sri Lakshmi",
+                     "Nassar"
+                 ],
+        "country":  [
+                        "India"
+                    ],
+        "date_added":  "September 21, 2021",
+        "release_year":  1998,
+        "rating":  "TV-14",
+        "duration":  "166 min",
+        "genres":  [
+                       "Comedies",
+                       "International Movies",
+                       "Romantic Movies"
+                   ],
+        "description":  "When the father of the man she loves insists that his twin sons marry twin sisters, a woman creates an alter ego that might be a bit too convincing."
+    },
+    {
+        "id":  "s26",
+        "title":  "Love on the Spectrum",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Brooke Satchwell"
+                 ],
+        "country":  [
+                        "Australia"
+                    ],
+        "date_added":  "September 21, 2021",
+        "release_year":  2021,
+        "rating":  "TV-14",
+        "duration":  "2 Seasons",
+        "genres":  [
+                       "Docuseries",
+                       "International TV Shows",
+                       "Reality TV"
+                   ],
+        "description":  "Finding love can be hard for anyone. For young adults on the autism spectrum, exploring the unpredictable world of dating is even more complicated."
+    },
+    {
+        "id":  "s27",
+        "title":  "Minsara Kanavu",
+        "type":  "Movie",
+        "director":  "Rajiv Menon",
+        "cast":  [
+                     "Arvind Swamy",
+                     "Kajol",
+                     "Prabhu Deva",
+                     "Nassar",
+                     "S.P. Balasubrahmanyam",
+                     "Girish Karnad"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 21, 2021",
+        "release_year":  1997,
+        "rating":  "TV-PG",
+        "duration":  "147 min",
+        "genres":  [
+                       "Comedies",
+                       "International Movies",
+                       "Music \u0026 Musicals"
+                   ],
+        "description":  "A tangled love triangle ensues when a man falls for a woman studying to become a nun — and she falls for the friend he enlists to help him pursue her."
+    },
+    {
+        "id":  "s28",
+        "title":  "Grown Ups",
+        "type":  "Movie",
+        "director":  "Dennis Dugan",
+        "cast":  [
+                     "Adam Sandler",
+                     "Kevin James",
+                     "Chris Rock",
+                     "David Spade",
+                     "Rob Schneider",
+                     "Salma Hayek",
+                     "Maria Bello",
+                     "Maya Rudolph",
+                     "Colin Quinn",
+                     "Tim Meadows",
+                     "Joyce Van Patten"
+                 ],
+        "country":  [
+                        "United States"
+                    ],
+        "date_added":  "September 20, 2021",
+        "release_year":  2010,
+        "rating":  "PG-13",
+        "duration":  "103 min",
+        "genres":  [
+                       "Comedies"
+                   ],
+        "description":  "Mourning the loss of their beloved junior high basketball coach, five middle-aged pals reunite at a lake house and rediscover the joys of being a kid."
+    },
+    {
+        "id":  "s29",
+        "title":  "Dark Skies",
+        "type":  "Movie",
+        "director":  "Scott Stewart",
+        "cast":  [
+                     "Keri Russell",
+                     "Josh Hamilton",
+                     "J.K. Simmons",
+                     "Dakota Goyo",
+                     "Kadan Rockett",
+                     "L.J. Benet",
+                     "Rich Hutchman",
+                     "Myndy Crist",
+                     "Annie Thurman",
+                     "Jake Brennan"
+                 ],
+        "country":  [
+                        "United States"
+                    ],
+        "date_added":  "September 19, 2021",
+        "release_year":  2013,
+        "rating":  "PG-13",
+        "duration":  "97 min",
+        "genres":  [
+                       "Horror Movies",
+                       "Sci-Fi \u0026 Fantasy"
+                   ],
+        "description":  "A family’s idyllic suburban life shatters when an alien force invades their home, and as they struggle to convince others of the deadly threat."
+    },
+    {
+        "id":  "s30",
+        "title":  "Paranoia",
+        "type":  "Movie",
+        "director":  "Robert Luketic",
+        "cast":  [
+                     "Liam Hemsworth",
+                     "Gary Oldman",
+                     "Amber Heard",
+                     "Harrison Ford",
+                     "Lucas Till",
+                     "Embeth Davidtz",
+                     "Julian McMahon",
+                     "Josh Holloway",
+                     "Richard Dreyfuss",
+                     "Angela Sarafyan"
+                 ],
+        "country":  [
+                        "United States",
+                        "India",
+                        "France"
+                    ],
+        "date_added":  "September 19, 2021",
+        "release_year":  2013,
+        "rating":  "PG-13",
+        "duration":  "106 min",
+        "genres":  [
+                       "Thrillers"
+                   ],
+        "description":  "Blackmailed by his company\u0027s CEO, a low-level employee finds himself forced to spy on the boss\u0027s rival and former mentor."
+    },
+    {
+        "id":  "s31",
+        "title":  "Ankahi Kahaniya",
+        "type":  "Movie",
+        "director":  "Ashwiny Iyer Tiwari, Abhishek Chaubey, Saket Chaudhary",
+        "cast":  [
+                     "Abhishek Banerjee",
+                     "Rinku Rajguru",
+                     "Delzad Hiwale",
+                     "Kunal Kapoor",
+                     "Zoya Hussain",
+                     "Nikhil Dwivedi",
+                     "Palomi Ghosh"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 17, 2021",
+        "release_year":  2021,
+        "rating":  "TV-14",
+        "duration":  "111 min",
+        "genres":  [
+                       "Dramas",
+                       "Independent Movies",
+                       "International Movies"
+                   ],
+        "description":  "As big city life buzzes around them, lonely souls discover surprising sources of connection and companionship in three tales of love, loss and longing."
+    },
+    {
+        "id":  "s32",
+        "title":  "Chicago Party Aunt",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Lauren Ash",
+                     "Rory O\u0027Malley",
+                     "RuPaul Charles",
+                     "Jill Talley",
+                     "Ike Barinholtz",
+                     "Jon Barinholtz",
+                     "Matthew Craig",
+                     "Bob Odenkirk",
+                     "Mike Hagerty",
+                     "Katie Rich",
+                     "Chris Witaske"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 17, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "1 Season",
+        "genres":  [
+                       "TV Comedies"
+                   ],
+        "description":  "Chicago Party Aunt Diane is an idolized troublemaker with a talent for avoiding adulthood — and a soft spot for her soul-searching nephew."
+    },
+    {
+        "id":  "s33",
+        "title":  "Sex Education",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Asa Butterfield",
+                     "Gillian Anderson",
+                     "Ncuti Gatwa",
+                     "Emma Mackey",
+                     "Connor Swindells",
+                     "Kedar Williams-Stirling",
+                     "Alistair Petrie"
+                 ],
+        "country":  [
+                        "United Kingdom"
+                    ],
+        "date_added":  "September 17, 2021",
+        "release_year":  2020,
+        "rating":  "TV-MA",
+        "duration":  "3 Seasons",
+        "genres":  [
+                       "British TV Shows",
+                       "International TV Shows",
+                       "TV Comedies"
+                   ],
+        "description":  "Insecure Otis has all the answers when it comes to sex advice, thanks to his therapist mom. So rebel Maeve proposes a school sex-therapy clinic."
+    },
+    {
+        "id":  "s34",
+        "title":  "Squid Game",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Lee Jung-jae",
+                     "Park Hae-soo",
+                     "Wi Ha-jun",
+                     "Oh Young-soo",
+                     "Jung Ho-yeon",
+                     "Heo Sung-tae",
+                     "Kim Joo-ryoung",
+                     "Tripathi Anupam",
+                     "You Seong-joo",
+                     "Lee You-mi"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 17, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "1 Season",
+        "genres":  [
+                       "International TV Shows",
+                       "TV Dramas",
+                       "TV Thrillers"
+                   ],
+        "description":  "Hundreds of cash-strapped players accept a strange invitation to compete in children\u0027s games. Inside, a tempting prize awaits — with deadly high stakes."
+    },
+    {
+        "id":  "s35",
+        "title":  "Tayo and Little Wizards",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Dami Lee",
+                     "Jason Lee",
+                     "Bommie Catherine Han",
+                     "Jennifer Waescher",
+                     "Nancy Kim"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 17, 2021",
+        "release_year":  2020,
+        "rating":  "TV-Y7",
+        "duration":  "1 Season",
+        "genres":  [
+                       "Kids\u0027 TV"
+                   ],
+        "description":  "Tayo speeds into an adventure when his friends get kidnapped by evil magicians invading their city in search of a magical gemstone."
+    },
+    {
+        "id":  "s36",
+        "title":  "The Father Who Moves Mountains",
+        "type":  "Movie",
+        "director":  "Daniel Sandu",
+        "cast":  [
+                     "Adrian Titieni",
+                     "Elena Purea",
+                     "Judith State",
+                     "Valeriu Andriuță",
+                     "Tudor Smoleanu",
+                     "Virgil Aioanei",
+                     "Radu Botar",
+                     "Petronela Grigorescu",
+                     "Bogdan Nechifor",
+                     "Cristian Bota"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 17, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "110 min",
+        "genres":  [
+                       "Dramas",
+                       "International Movies",
+                       "Thrillers"
+                   ],
+        "description":  "When his son goes missing during a snowy hike in the mountains, a retired intelligence officer will stop at nothing — and risk everything — to find him."
+    },
+    {
+        "id":  "s37",
+        "title":  "The Stronghold",
+        "type":  "Movie",
+        "director":  "Cédric Jimenez",
+        "cast":  [
+                     "Gilles Lellouche",
+                     "Karim Leklou",
+                     "François Civil",
+                     "Adèle Exarchopoulos",
+                     "Kenza Fortas",
+                     "Cyril Lecomte",
+                     "Michaël Abiteboul",
+                     "Idir Azougli",
+                     "Vincent Darmuzey",
+                     "Jean-Yves Berteloot"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 17, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "105 min",
+        "genres":  [
+                       "Action \u0026 Adventure",
+                       "Dramas",
+                       "International Movies"
+                   ],
+        "description":  "Tired of the small-time grind, three Marseille cops get a chance to bust a major drug network. But lines blur when a key informant makes a big ask."
+    },
+    {
+        "id":  "s38",
+        "title":  "Angry Birds",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Antti Pääkkönen",
+                     "Heljä Heikkinen",
+                     "Lynne Guaglione",
+                     "Pasi Ruohonen",
+                     "Rauno Ahonen"
+                 ],
+        "country":  [
+                        "Finland"
+                    ],
+        "date_added":  "September 16, 2021",
+        "release_year":  2018,
+        "rating":  "TV-Y7",
+        "duration":  "1 Season",
+        "genres":  [
+                       "Kids\u0027 TV",
+                       "TV Comedies"
+                   ],
+        "description":  "Birds Red, Chuck and their feathered friends have lots of adventures while guarding eggs in their nest that pesky pigs keep trying to steal."
+    },
+    {
+        "id":  "s39",
+        "title":  "Birth of the Dragon",
+        "type":  "Movie",
+        "director":  "George Nolfi",
+        "cast":  [
+                     "Billy Magnussen",
+                     "Ron Yuan",
+                     "Qu Jingjing",
+                     "Terry Chen",
+                     "Vanness Wu",
+                     "Jin Xing",
+                     "Philip Ng",
+                     "Xia Yu",
+                     "Yu Xia"
+                 ],
+        "country":  [
+                        "China",
+                        "Canada",
+                        "United States"
+                    ],
+        "date_added":  "September 16, 2021",
+        "release_year":  2017,
+        "rating":  "PG-13",
+        "duration":  "96 min",
+        "genres":  [
+                       "Action \u0026 Adventure",
+                       "Dramas"
+                   ],
+        "description":  "A young Bruce Lee angers kung fu traditionalists by teaching outsiders, leading to a showdown with a Shaolin master in this film based on real events."
+    },
+    {
+        "id":  "s40",
+        "title":  "Chhota Bheem",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Vatsal Dubey",
+                     "Julie Tejwani",
+                     "Rupa Bhimani",
+                     "Jigna Bhardwaj",
+                     "Rajesh Kava",
+                     "Mousam",
+                     "Swapnil"
+                 ],
+        "country":  [
+                        "India"
+                    ],
+        "date_added":  "September 16, 2021",
+        "release_year":  2021,
+        "rating":  "TV-Y7",
+        "duration":  "3 Seasons",
+        "genres":  [
+                       "Kids\u0027 TV"
+                   ],
+        "description":  "A brave, energetic little boy with superhuman powers leads his friends on exciting adventures to guard their fellow Dholakpur villagers from evil."
+    },
+    {
+        "id":  "s41",
+        "title":  "He-Man and the Masters of the Universe",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Yuri Lowenthal",
+                     "Kimberly Brooks",
+                     "Antony Del Rio",
+                     "Trevor Devall",
+                     "Ben Diskin",
+                     "Grey Griffin",
+                     "David Kaye",
+                     "Tom Kenny",
+                     "Judy Alice Lee",
+                     "Roger Craig Smith",
+                     "Fred Tatasciore"
+                 ],
+        "country":  [
+                        "United States"
+                    ],
+        "date_added":  "September 16, 2021",
+        "release_year":  2021,
+        "rating":  "TV-Y7",
+        "duration":  "1 Season",
+        "genres":  [
+                       "Kids\u0027 TV",
+                       "TV Sci-Fi \u0026 Fantasy"
+                   ],
+        "description":  "Mighty teen Adam and his heroic squad of misfits discover the legendary power of Grayskull — and their destiny to defend Eternia from sinister Skeletor."
+    },
+    {
+        "id":  "s42",
+        "title":  "Jaws",
+        "type":  "Movie",
+        "director":  "Steven Spielberg",
+        "cast":  [
+                     "Roy Scheider",
+                     "Robert Shaw",
+                     "Richard Dreyfuss",
+                     "Lorraine Gary",
+                     "Murray Hamilton",
+                     "Carl Gottlieb",
+                     "Jeffrey Kramer",
+                     "Susan Backlinie",
+                     "Jonathan Filley",
+                     "Ted Grossman"
+                 ],
+        "country":  [
+                        "United States"
+                    ],
+        "date_added":  "September 16, 2021",
+        "release_year":  1975,
+        "rating":  "PG",
+        "duration":  "124 min",
+        "genres":  [
+                       "Action \u0026 Adventure",
+                       "Classic Movies",
+                       "Dramas"
+                   ],
+        "description":  "When an insatiable great white shark terrorizes Amity Island, a police chief, an oceanographer and a grizzled shark hunter seek to destroy the beast."
+    },
+    {
+        "id":  "s43",
+        "title":  "Jaws 2",
+        "type":  "Movie",
+        "director":  "Jeannot Szwarc",
+        "cast":  [
+                     "Roy Scheider",
+                     "Lorraine Gary",
+                     "Murray Hamilton",
+                     "Joseph Mascolo",
+                     "Jeffrey Kramer",
+                     "Collin Wilcox Paxton",
+                     "Ann Dusenberry",
+                     "Mark Gruner",
+                     "Barry Coe",
+                     "Susan French"
+                 ],
+        "country":  [
+                        "United States"
+                    ],
+        "date_added":  "September 16, 2021",
+        "release_year":  1978,
+        "rating":  "PG",
+        "duration":  "116 min",
+        "genres":  [
+                       "Dramas",
+                       "Horror Movies",
+                       "Thrillers"
+                   ],
+        "description":  "Four years after the last deadly shark attacks, police chief Martin Brody fights to protect Amity Island from another killer great white."
+    },
+    {
+        "id":  "s44",
+        "title":  "Jaws 3",
+        "type":  "Movie",
+        "director":  "Joe Alves",
+        "cast":  [
+                     "Dennis Quaid",
+                     "Bess Armstrong",
+                     "Simon MacCorkindale",
+                     "Louis Gossett Jr.",
+                     "John Putch",
+                     "Lea Thompson",
+                     "P.H. Moriarty",
+                     "Dan Blasko",
+                     "Liz Morris",
+                     "Lisa Maurer"
+                 ],
+        "country":  [
+                        "United States"
+                    ],
+        "date_added":  "September 16, 2021",
+        "release_year":  1983,
+        "rating":  "PG",
+        "duration":  "98 min",
+        "genres":  [
+                       "Action \u0026 Adventure",
+                       "Horror Movies",
+                       "Thrillers"
+                   ],
+        "description":  "After the staff of a marine theme park try to capture a young great white shark, they discover its mother has invaded the enclosure and is out for blood."
+    },
+    {
+        "id":  "s45",
+        "title":  "Jaws: The Revenge",
+        "type":  "Movie",
+        "director":  "Joseph Sargent",
+        "cast":  [
+                     "Lorraine Gary",
+                     "Lance Guest",
+                     "Mario Van Peebles",
+                     "Karen Young",
+                     "Michael Caine",
+                     "Judith Barsi",
+                     "Mitchell Anderson",
+                     "Lynn Whitfield"
+                 ],
+        "country":  [
+                        "United States"
+                    ],
+        "date_added":  "September 16, 2021",
+        "release_year":  1987,
+        "rating":  "PG-13",
+        "duration":  "91 min",
+        "genres":  [
+                       "Action \u0026 Adventure",
+                       "Horror Movies",
+                       "Thrillers"
+                   ],
+        "description":  "After another deadly shark attack, Ellen Brody has had enough of Amity Island and moves to the Caribbean – but a great white shark follows her there."
+    },
+    {
+        "id":  "s46",
+        "title":  "My Heroes Were Cowboys",
+        "type":  "Movie",
+        "director":  "Tyler Greco",
+        "cast":  [
+
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 16, 2021",
+        "release_year":  2021,
+        "rating":  "PG",
+        "duration":  "23 min",
+        "genres":  [
+                       "Documentaries"
+                   ],
+        "description":  "Robin Wiltshire\u0027s painful childhood was rescued by Westerns. Now he lives on the frontier of his dreams, training the horses he loves for the big screen."
+    },
+    {
+        "id":  "s47",
+        "title":  "Safe House",
+        "type":  "Movie",
+        "director":  "Daniel Espinosa",
+        "cast":  [
+                     "Denzel Washington",
+                     "Ryan Reynolds",
+                     "Vera Farmiga",
+                     "Brendan Gleeson",
+                     "Sam Shepard",
+                     "Rubén Blades",
+                     "Nora Arnezeder",
+                     "Robert Patrick",
+                     "Liam Cunningham",
+                     "Joel Kinnaman"
+                 ],
+        "country":  [
+                        "South Africa",
+                        "United States",
+                        "Japan"
+                    ],
+        "date_added":  "September 16, 2021",
+        "release_year":  2012,
+        "rating":  "R",
+        "duration":  "115 min",
+        "genres":  [
+                       "Action \u0026 Adventure"
+                   ],
+        "description":  "Young CIA operative Matt Weston must get a dangerous criminal out of an agency safe house that\u0027s come under attack and get him to a securer location."
+    },
+    {
+        "id":  "s48",
+        "title":  "The Smart Money Woman",
+        "type":  "TV Show",
+        "director":  "Bunmi Ajakaiye",
+        "cast":  [
+                     "Osas Ighodaro",
+                     "Ini Dima-Okojie",
+                     "Kemi Lala Akindoju",
+                     "Toni Tones",
+                     "Ebenezer Eno",
+                     "Eso Okolocha DIke",
+                     "Patrick Diabuah",
+                     "Karibi Fubara",
+                     "Temisan Emmanuel",
+                     "Timini Egbuson"
+                 ],
+        "country":  [
+
+                    ],
+        "date_added":  "September 16, 2021",
+        "release_year":  2020,
+        "rating":  "TV-MA",
+        "duration":  "1 Season",
+        "genres":  [
+                       "International TV Shows",
+                       "Romantic TV Shows",
+                       "TV Comedies"
+                   ],
+        "description":  "Five glamorous millennials strive for success as they juggle careers, finances, love and friendships. Based on Arese Ugwu\u0027s 2016 best-selling novel."
+    },
+    {
+        "id":  "s49",
+        "title":  "Training Day",
+        "type":  "Movie",
+        "director":  "Antoine Fuqua",
+        "cast":  [
+                     "Denzel Washington",
+                     "Ethan Hawke",
+                     "Scott Glenn",
+                     "Tom Berenger",
+                     "Harris Yulin",
+                     "Raymond J. Barry",
+                     "Cliff Curtis",
+                     "Dr. Dre",
+                     "Snoop Dogg",
+                     "Macy Gray",
+                     "Eva Mendes"
+                 ],
+        "country":  [
+                        "United States"
+                    ],
+        "date_added":  "September 16, 2021",
+        "release_year":  2001,
+        "rating":  "R",
+        "duration":  "122 min",
+        "genres":  [
+                       "Dramas",
+                       "Thrillers"
+                   ],
+        "description":  "A rookie cop with one day to prove himself to a veteran LAPD narcotics officer receives a crash course in his mentor\u0027s questionable brand of justice."
+    },
+    {
+        "id":  "s50",
+        "title":  "Castle and Castle",
+        "type":  "TV Show",
+        "director":  "",
+        "cast":  [
+                     "Richard Mofe-Damijo",
+                     "Dakore Akande",
+                     "Bimbo Manuel",
+                     "Blossom Chukwujekwu",
+                     "Deyemi Okanlawon",
+                     "Etim Effiong",
+                     "Denola Grey",
+                     "Duke Akintola",
+                     "Eku Edewor",
+                     "Ade Laoye",
+                     "Anee Icha",
+                     "Kevin Ushi",
+                     "Jude Chukwuka",
+                     "Amanda Afolabi"
+                 ],
+        "country":  [
+                        "Nigeria"
+                    ],
+        "date_added":  "September 15, 2021",
+        "release_year":  2021,
+        "rating":  "TV-MA",
+        "duration":  "2 Seasons",
+        "genres":  [
+                       "International TV Shows",
+                       "TV Dramas"
+                   ],
+        "description":  "A pair of high-powered, successful lawyers find themselves defending opposite interests of the justice system, causing a strain on their happy marriage."
+    }
+]
